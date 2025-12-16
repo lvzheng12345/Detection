@@ -1,0 +1,14 @@
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\repository\UserRepository.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\AuditApplication.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\dto\LoginRequest.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\service\DeepSeekService.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\entity\User.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\controller\UserController.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\dto\DocumentAuditResponse.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\dto\AuditRequest.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\dto\StatsResponse.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\dto\AuditResponse.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\repository\AuditLogRepository.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\controller\AuditController.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\config\AppConfig.java
+C:\Users\86132\Desktop\实训\shixun\backend\src\main\java\com\example\audit\entity\AuditLog.java
